@@ -125,4 +125,4 @@ My primary responsibility focused on:
 ## 8. Full Documentation
 
 📄 Full Project Report:
-(Upload PDF file here)
+[View Full Project Report (PDF)](Medication_Reminder_UX_Report.pdf)
