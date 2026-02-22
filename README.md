@@ -29,7 +29,7 @@ The system included:
 
 An interactive prototype was created using Balsamiq.
 
-Prototype:
+Interactive Prototype (PDF Export):
 [View Full Project Prototype (PDF)](Medication_Reminder_UX_Prototype.pdf)
 ---
 
@@ -44,6 +44,8 @@ Method used:
 - Task-based testing
 - Performance recording
 - Error tracking
+  
+The evaluation process was grounded in established usability heuristics, particularly Nielsen’s principles of visibility, consistency, and error prevention.
 
 Tasks evaluated:
 1. Log in to the application
