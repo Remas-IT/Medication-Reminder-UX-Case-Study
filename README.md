@@ -29,9 +29,8 @@ The system included:
 
 An interactive prototype was created using Balsamiq.
 
-🔗 Prototype Link:
-https://balsamiq.cloud/s6f90lm/pmk633t
-
+Prototype:
+[View Full Project Prototype (PDF)](Medication_Reminder_UX_Prototype.pdf)
 ---
 
 ## 4. Evaluation Phase (My Primary Contribution)
