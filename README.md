@@ -76,28 +76,30 @@ Proposed improvements include:
 - Accessibility Analysis  
 - Application of HCI Principles 
 
+This case study demonstrates applied usability evaluation and research-based design improvement within an academic setting.
+
 ---
 
-##  Screenshots
+## Key Screens & Observed Usability Issues
 
 ### Log In Screen
 <img src="Images/Log_In.png" width="200" alt="Log In Screen">
-Issue: Low-contrast “Sign Up” link made it difficult for elderly users to notice.
+Observed Issue: Low-contrast "Sign Up" link reduced visibility for elderly users.
 
 
 ### Sign Up Screen
 <img src="Images/Sign_Up.png" width="200" alt="Sign Up Screen">
-Issue: Low-contrast “Log In” link made it difficult for elderly users to notice.
+Observed Issue: Low-contrast "Log In" link made it difficult for elderly users to notice.
 
 
 ### Home Screen
 <img src="Images/Home.png" width="300" alt="Home Screen">
-Issue: Menu icon was not recognized as a path to Personal Info by elderly users.
+Observed Issue: Menu icon was not recognized as a path to Personal Info by elderly users.
 
 
 ### Alter Screen
 <img src="Images/Alter.png" width="200" alt="Alter Screen">
-Issue: Multiple ambiguous buttons caused hesitation and confusion.
+Observed Issue: Multiple ambiguous buttons caused hesitation and confusion.
 
 ---
 
