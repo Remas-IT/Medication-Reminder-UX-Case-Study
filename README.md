@@ -129,11 +129,14 @@ My primary responsibility focused on:
 ### Log In Screen
 ![Log In Screen] <img src="Images/Log_In.png" width="100">
 
+
 ### Sign Up Screen
 ![Sign Up Screen] <img src="Images/Sign_Up.png" width="100">
 
+
 ### Home Screen
-![Home Screen] <img src="Images/Home.png" width="100">
+![Home Screen] <img src="Images/Home.png" width="300">
+
 
 ### Alter Screen
 ![Alter Screen] <img src="Images/Alter.png" width="100">
