@@ -127,16 +127,16 @@ My primary responsibility focused on:
 ## 8. Screenshots
 
 ### Log In Screen
-![Log In Screen] <img src="Images/Log_In.png" width="500">
+![Log In Screen] <img src="Images/Log_In.png" width="100">
 
 ### Sign Up Screen
-![Sign Up Screen] <img src="Images/Sign_Up.png" width="500">
+![Sign Up Screen] <img src="Images/Sign_Up.png" width="100">
 
 ### Home Screen
-![Home Screen] <img src="Images/Home.png" width="500">
+![Home Screen] <img src="Images/Home.png" width="100">
 
 ### Alter Screen
-![Alter Screen] <img src="Images/Alter.png" width="500">
+![Alter Screen] <img src="Images/Alter.png" width="100">
 
 ---
 
