@@ -124,23 +124,42 @@ My primary responsibility focused on:
 
 ---
 
-## 8. Screenshots
-
-### Log In Screen
-![Log In Screen] <img src="Images/Log_In.png" width="200">
-
-### Sign Up Screen
-![Sign Up Screen] <img src="Images/Sign_Up.png" width="200">
-
-### Home Screen
-![Home Screen] <img src="Images/Home.png" width="300">
-
-### Alter Screen
-![Alter Screen] <img src="Images/Alter.png" width="200">
+## 8. Tools Used
+- Balsamiq (Interactive Prototype)
+- Usability Testing (Observation-based)
+- Nielsen’s Usability Heuristics
 
 ---
 
-## 9. Full Documentation
+## 9. Skills Demonstrated
+- Usability Testing
+- UX Evaluation
+- Accessibility Analysis
+- Application of HCI Principles
+
+---
+
+## 10. Screenshots
+
+### Log In Screen
+<img src="Images/Log_In.png" width="200" alt="Log In Screen">
+Issue: Low-contrast “Sign Up” link made it difficult for elderly users to notice.
+
+### Sign Up Screen
+<img src="Images/Sign_Up.png" width="200" alt="Sign Up Screen">
+Issue: Low-contrast “Log In” link made it difficult for elderly users to notice.
+
+### Home Screen
+<img src="Images/Home.png" width="300" alt="Home Screen">
+Issue: Menu icon was not recognized as a path to Personal Info by elderly users.
+
+### Alter Screen
+<img src="Images/Alter.png" width="200" alt="Alter Screen">
+Issue: Multiple ambiguous buttons caused hesitation and confusion.
+
+---
+
+## 11. Full Documentation
 
 📄 Full Project Report:
 [View Full Project Report (PDF)](Medication_Reminder_UX_Report.pdf)
