@@ -68,11 +68,11 @@ Observation focused on:
 
 The evaluation revealed several usability barriers:
 
-• Low contrast text reduced readability for 2 out of 3 participants.  
-• Small font sizes affected elderly users with visual limitations.  
-• Abstract icons caused navigation confusion for 2 participants.  
-• Ambiguous confirmation buttons created hesitation for 2 out of 3 users.  
-• Low-contrast Cancel button particularly affected the participant with visual impairment.
+- Low contrast text reduced readability for **2 out of 3 participants**.  
+- Small font sizes affected elderly users with visual limitations (all 3 participants).  
+- Abstract icons caused navigation confusion for **2 participants**.  
+- Ambiguous confirmation buttons created hesitation for **2 out of 3 users**.  
+- Low-contrast Cancel button particularly affected the participant with visual impairment.
 
 Users with limited smartphone experience required assistance in multiple tasks.
 
