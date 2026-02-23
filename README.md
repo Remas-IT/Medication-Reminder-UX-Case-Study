@@ -31,6 +31,7 @@ An interactive prototype was created using Balsamiq.
 
 Interactive Prototype (PDF Export):
 [View Full Project Prototype (PDF)](Medication_Reminder_UX_Prototype.pdf)
+
 ---
 
 ## 4. Evaluation Phase (My Primary Contribution)
@@ -123,7 +124,23 @@ My primary responsibility focused on:
 
 ---
 
-## 8. Full Documentation
+## 8. Screenshots
+
+### Log In Screen
+![Log In Screen] <img src="images/Log_In.png" width="500">
+
+### Sign Up Screen
+![Sign Up Screen] <img src="images/Sign_Up.png" width="500">
+
+### Home Screen
+![Home Screen] <img src="images/Home.png" width="500">
+
+### Alter Screen
+![Alter Screen] <img src="images/Alter.png" width="500">
+
+---
+
+## 9. Full Documentation
 
 📄 Full Project Report:
 [View Full Project Report (PDF)](Medication_Reminder_UX_Report.pdf)
