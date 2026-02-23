@@ -2,7 +2,7 @@
 
 ## Project Overview  
 This was a collaborative academic project focused on designing and evaluating a medication reminder mobile application for elderly users using HCI principles and usability heuristics.  
-Developed as part of IT215 – Human-Computer Interaction Course.
+Developed as part of Human-Computer Interaction Course.
 
 ---
 
