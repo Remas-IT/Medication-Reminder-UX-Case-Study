@@ -1,8 +1,7 @@
 # Medication Reminder Mobile Application – UX Case Study
 
 ## Project Overview  
-This was a collaborative academic project focused on designing and evaluating a medication reminder mobile application for elderly users using HCI principles and usability heuristics.  
-Developed as part of Human-Computer Interaction Course.
+A UX case study focused on designing and evaluating a medication reminder mobile application for elderly users using HCI principles and usability heuristics.
 
 ---
 
@@ -103,7 +102,23 @@ Observed Issue: Multiple ambiguous buttons caused hesitation and confusion.
 
 ---
 
+## Future Work
+Future iterations will implement additional accessibility improvements and expand usability testing.
+
+---
+
+## Impact 
+This case study demonstrates the application of usability heuristics and accessibility principles in designing technology for aging populations.
+
+---
+
 ## Full Documentation
 
 📄 Full Project Report:
 [View Full Project Report (PDF)](Medication_Reminder_UX_Report.pdf)
+
+---
+
+## Project Type
+Developed as a group academic project for IT coursework.
+
